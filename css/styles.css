@@ -1031,7 +1031,7 @@ label a {
 .subscribe-btn {
   display: flex;
   flex-direction: row;
-
+  width: 200px;
   font-weight: 700;
   font-size: 16px;
   line-height: 30px;
@@ -1057,4 +1057,5 @@ label a {
 .icon-send {
   display: flex;
   align-items: center;
+  margin-left: 10px;
 }
